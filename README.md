@@ -1,6 +1,6 @@
 ## Selected Projects
 Below are some selected projects showcasing my ability to preprocess data and gain strategic insights, as well as applications of Computer Vision and Natural Language Processing with deep learning. 
-Github links to the projects are provided along with a short description. 
+ Github links to the projects are provided along with a short description. 
 
 ### [Random Forest](https://github.com/ksolonenko/Projects/blob/main/Machine-Learning/Random%20Forest.ipynb)
 Data processing, feature selection methods and analysis using Heart Failure Prediction dataset.
