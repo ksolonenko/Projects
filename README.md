@@ -4,7 +4,7 @@ Below are some selected projects showcasing my ability to process data and gain 
 ### [Random Forest](https://github.com/ksolonenko/Projects/blob/main/Machine-Learning/Random%20Forest.ipynb)
 Data processing, feature selection methods and analysis using Heart Failure Prediction dataset.
 
-### [Prescription Parser Using Conditional Random Field mMdel](https://github.com/ksolonenko/Projects/blob/main/Machine-Learning/CRF%20Prescription%20Parser.ipynb)
+### [Prescription Parser Using Conditional Random Field Model](https://github.com/ksolonenko/Projects/blob/main/Machine-Learning/CRF%20Prescription%20Parser.ipynb)
 Takes a Doctor Prescription (sentence) as an input and finds/labels the words in that sentence with one of the already pre-defined labels.
 
 ### [Sentiment Analysis](https://github.com/ksolonenko/Projects/blob/main/Deep%20Learning/Baseline%20Sentiment%20analysis%20using%20RNN.ipynb)
