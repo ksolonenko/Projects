@@ -4,8 +4,8 @@ Below are some selected projects showcasing my ability to process data and gain 
 ### [Random Forest](https://github.com/ksolonenko/Projects/blob/main/Machine-Learning/Random%20Forest.ipynb)
 Data processing, feature selection methods and analysis using Heart Failure Prediction dataset.
 
-### [Prescription Parser Using Conditional Random Field Model](https://github.com/ksolonenko/Projects/blob/main/Machine-Learning/CRF%20Prescription%20Parser.ipynb)
-Takes a Doctor Prescription (sentence) as an input and finds/labels the words in that sentence with one of the already pre-defined labels.
+### [Movie Recommendation](https://github.com/ksolonenko/Projects/blob/main/Machine-Learning/Movie%20Recommender.ipynb)
+Employing various methods such as Collaborative Filtering using the Surprise library, as well as Content and Popularity based recommendation using Cosine Similarity.
 
 ### [Sentiment Analysis](https://github.com/ksolonenko/Projects/blob/main/Deep%20Learning/Baseline%20Sentiment%20analysis%20using%20RNN.ipynb)
 Binary classification project using a Recurrent Neural Network with LSTM architecture to predict movie review sentiment. 
