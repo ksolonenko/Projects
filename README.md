@@ -12,6 +12,7 @@ Binary classification project using a Recurrent Neural Network with LSTM archite
 
 ### [Thief Detector](https://github.com/ksolonenko/Projects/blob/main/Computer-Vision/Motion%20detection.ipynb)
 A motion detection project that alarms you when you have an unwanted visitor in your home!
+Employs thresholding, contours and object detection to label new objects that come into frame against a reference image.
 
 ### [Assessing Toronto’s Housing Market Value](https://github.com/GabsAki/big-data2-final-project?tab=readme-ov-file)
 Project employing PySpark and Microsoft Fabric to consolidate various data sources into a unified repository, enabling the visualization of key trends affecting Toronto's housing market.
