@@ -11,7 +11,7 @@ Employing various methods such as Collaborative Filtering using the Surprise lib
 Binary classification project using a Recurrent Neural Network with LSTM architecture to predict movie review sentiment. 
 
 ### [Thief Detector](https://github.com/ksolonenko/Projects/blob/main/Computer-Vision/Motion%20detection.ipynb)
-A motion detection algorithm that alarms you when you have an unwanted visitor in your home!
+A motion detection project that alarms you when you have an unwanted visitor in your home!
 
 ### [Assessing Toronto’s Housing Market Value](https://github.com/GabsAki/big-data2-final-project?tab=readme-ov-file)
 Project employing PySpark and Microsoft Fabric to consolidate various data sources into a unified repository, enabling the visualization of key trends affecting Toronto's housing market.
